@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201183365675",
+    "project_id": "resumetest-ac9ad",
+    "storage_bucket": "resumetest-ac9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201183365675:android:9515fdba3dce5a3bb9f86e",
+        "android_client_info": {
+          "package_name": "com.darshan.resume1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201183365675-bank04l1rg4ldq5hpfet2sugobhiaghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0W3DWIkuiAaWk6E8H9KGHHejUpECAF0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201183365675-bank04l1rg4ldq5hpfet2sugobhiaghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
